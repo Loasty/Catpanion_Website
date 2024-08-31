@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://catpanion.app/Home.html</loc>
-        <lastmod>2024-06-17T21:26:13-04:00</lastmod>
+        <lastmod>2024-08-31T01:15:05-04:00</lastmod>
     </url>
     <url>
         <loc>https://catpanion.app/index.html</loc>
-        <lastmod>2024-06-17T21:26:13-04:00</lastmod>
+        <lastmod>2024-08-31T01:15:05-04:00</lastmod>
     </url>
     <url>
         <loc>https://catpanion.app/blog/catpanion-official-steam-release-coming-soon.html</loc>
         <lastmod>2024-06-05T04:08:10-04:00</lastmod>
     </url>
     <url>
+        <loc>https://catpanion.app/blog/catpanion-july-progress-update.html</loc>
+        <lastmod>2024-07-17T14:28:53-04:00</lastmod>
+    </url>
+    <url>
         <loc>https://catpanion.app/blog/blog.html</loc>
-        <lastmod>2024-06-17T21:26:16-04:00</lastmod>
+        <lastmod>2024-08-31T01:15:11-04:00</lastmod>
     </url>
 </urlset>
